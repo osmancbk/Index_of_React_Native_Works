@@ -3,6 +3,7 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
+  |RN_7        | CHAT App | [Repository](https://github.com/osmancbk/RN_07_Chat_App)|<img src="img/chat.gif" height="400">|
   |RN_6        | Map Restaurant App | [Repository](https://github.com/osmancbk/RN_06_Map_Restaurant_App)|<img src="img/maps.gif" height="400">|
   |RN_5        | Job Search App | [Repository](https://github.com/osmancbk/RN_05_Job_Search_App)|<img src="img/jobs.gif" height="400">|
   |RN_4        | Restaurant App | [Repository](https://github.com/osmancbk/RN_04_Restaurant_App)|<img src="img/rest.gif" height="400">|
